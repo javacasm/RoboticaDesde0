@@ -1,3 +1,15 @@
+# Robotica desde 0
+
+## Básicos de la OSL UGR
+
+## José Antonio Vacas  @javacasm
+
+## https://github.com/javacasm/RoboticaDesde0
+
+
+![licencia CC](./images/Licencia_CC.png)
+
+* * *
 # Software
 
 1. Controlar servos: usamos unos potenciómetros para controlar el movimiento de los servos
@@ -5,4 +17,4 @@
 1. Para minimizar los picos de corriente y las vibraciones arrancamos acelerando y frenamos antes de terminar
 1. Definimos trayectorias de velocidad
 1. Debemos poder detenerlas (interrupciones)
-1. Hacemos los movimientos de 
+1. Hacemos los movimientos de
